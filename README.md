@@ -1,29 +1,57 @@
 # RedTeam_MITRE-ATT-CK
 Este repositorio está diseñado para organizar y ejecutar simulaciones ofensivas educativas basadas en la matriz MITRE ATT&amp;CK. Pensado para líderes de Red Team, consultores de seguridad ofensiva y formadores técnicos que deseen aplicar técnicas reales de adversarios en entornos controlados.
-MITRE_ATTCK_Pruebas/
+
+MITRE\_ATTCK\_Pruebas/
+
 │
-├── T1566_Phishing/
+
+├── T1566\_Phishing/
+
 │   ├── README.md
-│   ├── plantilla_gophish.html
-│   ├── configuracion_gophish.md
-│   └── resultados_simulacion.xlsx
+
+│   ├── plantilla\_gophish.html
+
+│   ├── configuracion\_gophish.md
+
+│   └── resultados\_simulacion.xlsx
+
 │
-├── T1059_PowerShell_Execution/
-│   ├── scripts_ejecucion.ps1
+
+├── T1059\_PowerShell\_Execution/
+
+│   ├── scripts\_ejecucion.ps1
+
 │   ├── README.md
-│   └── detecciones_EDR.txt
+
+│   └── detecciones\_EDR.txt
+
 │
-├── T1547_Persistence_Registry/
-│   ├── script_registro.bat
-│   ├── deteccion_event_viewer.md
+
+├── T1547\_Persistence\_Registry/
+
+│   ├── script\_registro.bat
+
+│   ├── deteccion\_event\_viewer.md
+
 │   └── README.md
+
 │
-├── T1021_Lateral_Movement_PsExec/
-│   ├── prueba_psexec.cmd
-│   ├── resultados_defensa.md
+
+├── T1021\_Lateral\_Movement\_PsExec/
+
+│   ├── prueba\_psexec.cmd
+
+│   ├── resultados\_defensa.md
+
 │   └── README.md
+
 │
-└── Documentacion_General/
-    ├── Hoja_mapeo_MITRE.xlsx
-    ├── Plantilla_Informe_Resultados.docx
-    └── Lista_Herramientas_Recomendadas.md
+
+└── Documentacion\_General/
+
+├── Hoja\_mapeo\_MITRE.xlsx
+
+├── Plantilla\_Informe\_Resultados.docx
+
+└── Lista\_Herramientas\_Recomendadas.md
+
