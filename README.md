@@ -3,7 +3,6 @@ Este repositorio está diseñado para organizar y ejecutar simulaciones ofensiva
 
 MITRE\_ATTCK\_Pruebas/
 
-│
 
 ├── T1566\_Phishing/
 
@@ -15,7 +14,6 @@ MITRE\_ATTCK\_Pruebas/
 
 │   └── resultados\_simulacion.xlsx
 
-│
 
 ├── T1059\_PowerShell\_Execution/
 
@@ -25,7 +23,6 @@ MITRE\_ATTCK\_Pruebas/
 
 │   └── detecciones\_EDR.txt
 
-│
 
 ├── T1547\_Persistence\_Registry/
 
@@ -35,7 +32,6 @@ MITRE\_ATTCK\_Pruebas/
 
 │   └── README.md
 
-│
 
 ├── T1021\_Lateral\_Movement\_PsExec/
 
@@ -45,7 +41,6 @@ MITRE\_ATTCK\_Pruebas/
 
 │   └── README.md
 
-│
 
 └── Documentacion\_General/
 
